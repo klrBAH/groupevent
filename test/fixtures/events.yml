@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  start_date: 2015-08-24 16:22:14
+  end_date: 2015-08-24 16:22:14
+  max_teams: 1
+  max_team_members: 1
+  min_team_members: 1
+
+two:
+  name: MyString
+  start_date: 2015-08-24 16:22:14
+  end_date: 2015-08-24 16:22:14
+  max_teams: 1
+  max_team_members: 1
+  min_team_members: 1
